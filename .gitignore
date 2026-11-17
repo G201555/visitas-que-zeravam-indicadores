@@ -1,0 +1,16 @@
+# dados e credenciais nunca entram no repositório
+*.pkl
+*.csv
+*.xlsx
+*.pbix
+*.json
+!firebase.json
+!firestore.indexes.json
+!package.json
+.env
+.cred/
+dados/
+data/
+cache*/
+logs/
+__pycache__/
